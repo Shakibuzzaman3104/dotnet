@@ -2,7 +2,7 @@
 
 ## Pages
 
-- Happy Coding
+- Most of the razor pages are plug into a special page named **_Layout.cshtml** page found inside **Pages/Shared** folder 
 - Software Product Sprint
 - Google Maps
 
